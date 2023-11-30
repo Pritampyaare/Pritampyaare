@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 
 
-- 🔭 I am Software Engineer with 2+ yrs of Experience [: My Resume](https://drive.google.com/file/d/1eHEn2ms_jAs3TttDreVLw-JdH4dBMUoz/view?usp=share_link)
+- 🔭 I am Software Engineer with 2.5+ yrs of Experience [: My Resume](https://drive.google.com/file/d/1eHEn2ms_jAs3TttDreVLw-JdH4dBMUoz/view?usp=share_link)
 
 - 🌱 I’m currently learning **System Design**
 
